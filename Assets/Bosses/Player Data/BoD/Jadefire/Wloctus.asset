@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Wloctus
+  m_EditorClassIdentifier: 
+  playerName: Wloctus
+  playerRole: Dps
+  playerClass: Warlock
+  playerProximity: Ranged
+  dps:
+  - 21494
+  - 21278.5
+  - 19573.4
+  - 18524
+  - 17018.9
+  - 15195.4
+  - 14648.3
+  hps:
+  - 4128
+  - 2670.2
+  - 2178.3
+  - 2057.9
+  - 1994.3
+  - 1969.4
+  - 1791.5
+  survivability:
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Jadefire
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 9ae56351c72fe6743ae3b9eddb363235, type: 2}
+  - {fileID: 11400000, guid: b53e9c3991e07b841881409ef94d5e13, type: 2}
+  - {fileID: 11400000, guid: b50431c69b3065a4182a1bc38e9f1fdc, type: 2}
+  - {fileID: 11400000, guid: 604306c8bb4fd2a478bcdfb3ee7c10d9, type: 2}
+  - {fileID: 11400000, guid: 0e060b22407bc2e4cb63c51a1e59935b, type: 2}
+  - {fileID: 11400000, guid: e1d91cd63681bda4c9febd01ffcdd548, type: 2}
+  - {fileID: 11400000, guid: 0d44edce1880db64eb6ed11c32f356ed, type: 2}
+  - {fileID: 11400000, guid: f45e00d72102e0944aa7833f7a1cefa3, type: 2}
+  - {fileID: 11400000, guid: 726ea170749aeb1499e18175b084943d, type: 2}
+  - {fileID: 11400000, guid: e1efa2e9c8536bf4b8fa28359f765fe5, type: 2}
+  - {fileID: 11400000, guid: 4074ab1c60991e74d94dccc1b44d25fd, type: 2}
+  - {fileID: 11400000, guid: f7cae863de9b96f479bbe94b66e977f8, type: 2}
+  - {fileID: 11400000, guid: 43716a048db1a8b40acfd497367733bb, type: 2}
+  - {fileID: 11400000, guid: 66dd9bed9264cfd408b4506957935604, type: 2}
+  - {fileID: 11400000, guid: f9732ab29494d5f4f84f0fabbd1efcc7, type: 2}
+  - {fileID: 11400000, guid: 4afc6ebedbf82714cab3e6a71a8f972d, type: 2}
+  - {fileID: 11400000, guid: e1a5ba4458d7b9b47b43822747230761, type: 2}
+  - {fileID: 11400000, guid: d014fc96abab8d848b93411229e95054, type: 2}
+  - {fileID: 11400000, guid: af13299e8da1c254f88159907924d85b, type: 2}
+  - {fileID: 11400000, guid: e6048bed346012f4baa9cdb6a63743eb, type: 2}
+  - {fileID: 11400000, guid: 45008f026818a4a458afd2438aa6b40b, type: 2}
+  - {fileID: 11400000, guid: 1757e0ae4919abe4093748757cba4edd, type: 2}
+  - {fileID: 11400000, guid: a11c301d12495cb488206db41b1088b0, type: 2}
+  - {fileID: 11400000, guid: acdce7c673720894e9bdc12d7fef2f58, type: 2}
+  - {fileID: 11400000, guid: c595fafac6bf3814c9fe13c5f0a0f631, type: 2}
+  - {fileID: 11400000, guid: bdb3b432e22a97c43a21a6e0cab3c7ff, type: 2}
+  - {fileID: 11400000, guid: 86d4377075d509a44ae4ef887a73a689, type: 2}
+  - {fileID: 11400000, guid: f00c00972c88edf45afc3fe3ffa77467, type: 2}
+  - {fileID: 11400000, guid: e8c075f6b20bdd94a86dced081c78f93, type: 2}
+  - {fileID: 11400000, guid: e2221d8107aaab6469ca3660cc46e40b, type: 2}
+  - {fileID: 11400000, guid: d7f35ccc67f175d4c96d9909086a2f2f, type: 2}
+  - {fileID: 11400000, guid: ba0298d24936aa84d87dd09ad7be33ce, type: 2}
+  - {fileID: 11400000, guid: 3f987a0bdf94a814ca397d2706050ff3, type: 2}
+  - {fileID: 11400000, guid: 7ad7243ca6a402a4a81e3f1c9ced9fc1, type: 2}
+  - {fileID: 11400000, guid: 3da3806b8998430439c09067fb0a6d75, type: 2}
+  - {fileID: 11400000, guid: a0907b59579e48c459ebb582f39d98c5, type: 2}
+  - {fileID: 11400000, guid: be3ceccb5986de447b4cf67e8318c40d, type: 2}
+  - {fileID: 11400000, guid: 97c81e7ce8f74ef4bbf906a6485aec6f, type: 2}
+  - {fileID: 11400000, guid: 42785b02c9320b24c9f4a351c91a0dbd, type: 2}
+  - {fileID: 11400000, guid: 83b09dea611f9164d8158db0d5694e37, type: 2}
+  - {fileID: 11400000, guid: 1550a691721615c44bdbafe83960dbd0, type: 2}
+  - {fileID: 11400000, guid: f67198e7cea5c2249afc49ff69f15083, type: 2}
+  - {fileID: 11400000, guid: daf091491fa099248bf3766861be2773, type: 2}
+  - {fileID: 11400000, guid: c0c8723f7bbfa1340be959bcc3f860ad, type: 2}
+  - {fileID: 11400000, guid: 58ac6926fa9785145b3a88f7f9bc4046, type: 2}
+  - {fileID: 11400000, guid: d32ec75ca0cde48438f0b2a2f377cd39, type: 2}
+  - {fileID: 11400000, guid: 86d447834eaacde458935ea936c0ee42, type: 2}
+  - {fileID: 11400000, guid: a15229c50c00544448af12284e81eb9d, type: 2}
+  - {fileID: 11400000, guid: 504e4c0e07acc68438e9726c3a291870, type: 2}
+  - {fileID: 11400000, guid: 5de7e9a366956e54e92cae294fdb74e5, type: 2}
+  - {fileID: 11400000, guid: 141acd115f572f34e90dfbce79e1345c, type: 2}
+  - {fileID: 11400000, guid: 0c3d2fd3a7417f147b3c615a8013a72b, type: 2}
+  - {fileID: 11400000, guid: 564c78b5a4992324489b3995db50064b, type: 2}
+  - {fileID: 11400000, guid: 73a1e30f3f8e13a4096cbaaa43e2d45d, type: 2}
+  - {fileID: 11400000, guid: c9493c3e8aaeec946b284f2bca54a6b5, type: 2}
+  - {fileID: 11400000, guid: 10109152df5999742b247000bb3222c5, type: 2}
+  - {fileID: 11400000, guid: 338502f747906834fa8d134408c530de, type: 2}
+  - {fileID: 11400000, guid: 63d475a8167854a4789dbbf3cf898bb2, type: 2}
+  - {fileID: 11400000, guid: 96aee4f8030ef67438c37e12028981c3, type: 2}
+  - {fileID: 11400000, guid: 5adefcc588b4ae141ba62ca0319fb82f, type: 2}
+  - {fileID: 11400000, guid: e8f31aa65caab614094cb7d7b3fee548, type: 2}
+  zoneName: BATTLE OF DAZAR'ALOR
+  bossName: Jadefire Masters
+  bossOrder: 2
+  bossHpValue: 78864536
+  berserkInSeconds: 494
+  causeOfDeath:
+  - Multi-Sided Strike puzzle
+  - High damage taken
+  - Line of Sight
+  - Magma Trap
+  - Laser
+  - Niuzao trample
+  - Adds
+  benchEvent:
+  - Bench Lord somehow killed a few players
+  howManyHealers: 4
+  howManyTanks: 2

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Restokwik
+  m_EditorClassIdentifier: 
+  playerName: Restokwik
+  playerRole: Healer
+  playerClass: Shaman
+  playerProximity: Ranged
+  dps:
+  - 10314.3
+  - 4846.6
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 3654.1
+  hps:
+  - 47637.7
+  - 42986.8
+  - 40971.8
+  - 33783.8
+  - 33196.7
+  - 26523.3
+  - 7717.1
+  - 41745.1
+  - 37844.4
+  - 31642.4
+  - 30832.6
+  - 30245.1
+  survivability:
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

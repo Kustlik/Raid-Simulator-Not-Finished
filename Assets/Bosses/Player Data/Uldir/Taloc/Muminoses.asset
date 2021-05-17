@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Muminoses
+  m_EditorClassIdentifier: 
+  playerName: Muminoses
+  playerRole: Dps
+  playerClass: Druid
+  playerProximity: Ranged
+  dps:
+  - 10696.3
+  - 9766.1
+  - 8822.5
+  - 8802.5
+  - 7519.3
+  - 5897.4
+  - 3753.8
+  - 10456
+  hps:
+  - 1048.6
+  - 841.6
+  - 712.4
+  - 546
+  - 477.6
+  - 439
+  - 245.9
+  - 651.8
+  survivability:
+  - 52.8
+  - 72.2
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

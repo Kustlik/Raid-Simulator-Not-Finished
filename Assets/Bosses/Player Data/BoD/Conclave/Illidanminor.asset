@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Illidanminor
+  m_EditorClassIdentifier: 
+  playerName: Illidanminor
+  playerRole: Dps
+  playerClass: Demon Retard
+  playerProximity: Melee
+  dps:
+  - 14634
+  - 13817.6
+  - 15121.6
+  - 14443.7
+  - 14342.6
+  - 12730.9
+  - 11862.9
+  hps:
+  - 5795
+  - 4680.1
+  - 4585
+  - 4457.6
+  - 3927.1
+  - 4399.3
+  - 2808.9
+  survivability:
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Fetid Devourer
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 36f5a1a72a2fd8d4491e3fac47d806bd, type: 2}
+  - {fileID: 11400000, guid: 1d1695bb8c4f55647af7a5ea9d944549, type: 2}
+  - {fileID: 11400000, guid: 7f0c6bcfb709a72438ab92906090f707, type: 2}
+  - {fileID: 11400000, guid: 872812fbdb8f8384fa705885303328c7, type: 2}
+  - {fileID: 11400000, guid: 4a2e97f52aa3dd54b8a5442c5eba20c7, type: 2}
+  - {fileID: 11400000, guid: cb82c2bbcba68c84cb0453d3555f64f5, type: 2}
+  - {fileID: 11400000, guid: 7f37c5c8297b61f41b5ca79cc08e7af0, type: 2}
+  - {fileID: 11400000, guid: 0c9c3bab801398f4babe842eeb6cc475, type: 2}
+  - {fileID: 11400000, guid: 0fc8134cdbc34044fb3ecb269cd2d5f6, type: 2}
+  - {fileID: 11400000, guid: ec99fbdce82e95647804cef5942462ce, type: 2}
+  - {fileID: 11400000, guid: 9031799845276254fb86ca91d1c76fe9, type: 2}
+  - {fileID: 11400000, guid: bb4ffa900d00c6e4c86c492cc00d4f3d, type: 2}
+  - {fileID: 11400000, guid: dd165a55b6fd8bf46b453ea8ca42ac00, type: 2}
+  - {fileID: 11400000, guid: 3eacf4e67e7283e4eb67ae6d1aad611f, type: 2}
+  - {fileID: 11400000, guid: acc67b99e21a1154cbbedbe64fd0b63e, type: 2}
+  - {fileID: 11400000, guid: 8da150c63552b784ca5643f7490cafb2, type: 2}
+  - {fileID: 11400000, guid: 2edee1168439d0a4faffb8baf5fbb10f, type: 2}
+  - {fileID: 11400000, guid: bd773fbb050a1304891633aff4088c7a, type: 2}
+  - {fileID: 11400000, guid: 71a43435ef335754fbce9518ad0f9738, type: 2}
+  - {fileID: 11400000, guid: b18d429be18b44a49b8e7ec250093198, type: 2}
+  zoneName: ULDIR
+  bossName: Fetid Devourer
+  bossOrder: 3
+  bossHpValue: 53055176
+  berserkInSeconds: 340
+  causeOfDeath:
+  - Putrid Paroxysm DoT
+  - Line of Sight
+  - High damage taken
+  benchEvent:
+  - Bench Lord spreaded DoT to multiple players
+  howManyHealers: 3
+  howManyTanks: 2

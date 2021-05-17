@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Veirena
+  m_EditorClassIdentifier: 
+  playerName: Veirena
+  playerRole: Tank
+  playerClass: Monk
+  playerProximity: Melee
+  dps:
+  - 8559.6
+  - 8429.9
+  - 8228.9
+  - 8449.7
+  - 8326.5
+  - 7523.4
+  hps:
+  - 17932.2
+  - 17635.9
+  - 19487
+  - 18157.6
+  - 17758.3
+  - 14665.7
+  survivability:
+  - 69
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

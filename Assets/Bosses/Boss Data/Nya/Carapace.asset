@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Carapace
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 48723cdb2d364fd40938096e383977ed, type: 2}
+  - {fileID: 11400000, guid: 6a6b2eebc20b7ed4a88066e0286582b2, type: 2}
+  - {fileID: 11400000, guid: 9009545988a7c75428006f9c25f4aaaa, type: 2}
+  - {fileID: 11400000, guid: c71f406011a70344d93b9d5f04982de7, type: 2}
+  - {fileID: 11400000, guid: 3855b3bbe1bcc804b849c6b506d02428, type: 2}
+  - {fileID: 11400000, guid: cb09f167458d1c64c8ff5405025f1a97, type: 2}
+  - {fileID: 11400000, guid: 943bdc9df956c5c46b7d671bdf2ea032, type: 2}
+  - {fileID: 11400000, guid: 2f0cc11cfec369f4d96b42851a1a97ca, type: 2}
+  - {fileID: 11400000, guid: b3fab14d410621a43a2ccc7847f365b2, type: 2}
+  - {fileID: 11400000, guid: 6021476d863361a4195b6d1f7a344e13, type: 2}
+  - {fileID: 11400000, guid: fba2ba7ca3b164c4d99adca98287e10e, type: 2}
+  - {fileID: 11400000, guid: 12eaed509dc81bf4e8c4cd55aae1fd69, type: 2}
+  - {fileID: 11400000, guid: 06fc1249e6eb2164985eaa67d571cd1b, type: 2}
+  - {fileID: 11400000, guid: fa8c3696b4be1394fa612591b9eef886, type: 2}
+  - {fileID: 11400000, guid: a8984dac36d98864ebf2ae913a7705f8, type: 2}
+  - {fileID: 11400000, guid: 02840465ac32e8b44985897e4379194d, type: 2}
+  - {fileID: 11400000, guid: 21b61351046c9624f8dd04b57454f2f3, type: 2}
+  - {fileID: 11400000, guid: c33b27b8b25828c41ab28d3efffd9c03, type: 2}
+  - {fileID: 11400000, guid: 32a2094868af6c24b93727ddccc824d8, type: 2}
+  - {fileID: 11400000, guid: 36e5de2c2f82dc948ba1043a61a4f15e, type: 2}
+  - {fileID: 11400000, guid: 80b13c0a3054f234f83bc51f1afe3b79, type: 2}
+  - {fileID: 11400000, guid: f05be582c0e09bf4c9cc28ccb4b63f73, type: 2}
+  - {fileID: 11400000, guid: 3c8d280d052cff046ab7d9b3c1de49d0, type: 2}
+  - {fileID: 11400000, guid: 07dac94a5630328438a820d49b2df4db, type: 2}
+  - {fileID: 11400000, guid: 164c0779cdfa0084ab1cde5a9553a506, type: 2}
+  - {fileID: 11400000, guid: cfd0daad871e71d49b82de41b470944e, type: 2}
+  - {fileID: 11400000, guid: 72c5ae38ac7c4f44ca8739a3a1a748ab, type: 2}
+  - {fileID: 11400000, guid: 4fc6174ebdf7db944b34a951a308218b, type: 2}
+  - {fileID: 11400000, guid: 90786f9195b914f48a0b96b58ef162fa, type: 2}
+  - {fileID: 11400000, guid: 49b5d8ebbb0676a4ba10ffc32c60fc1a, type: 2}
+  - {fileID: 11400000, guid: ee23efb3e1242f2479eaae45f429a896, type: 2}
+  - {fileID: 11400000, guid: 16e9651095d86ff4bb6fa7213320edd8, type: 2}
+  - {fileID: 11400000, guid: 7fe9c10b3c1211b498646c10fcccb53c, type: 2}
+  - {fileID: 11400000, guid: dc089de1f0dcff54b9581ce81b65c94c, type: 2}
+  - {fileID: 11400000, guid: 5e2111d325a91c7489772461e82fb10a, type: 2}
+  - {fileID: 11400000, guid: dde85b8886dfe7c41ac6112eee580041, type: 2}
+  - {fileID: 11400000, guid: 226601a2cdff9ff45bddab04461d8d52, type: 2}
+  - {fileID: 11400000, guid: 840b2ea680c9ef541979529277569b6d, type: 2}
+  - {fileID: 11400000, guid: 073f53ad6c7263b49b74f7b5af9fe31c, type: 2}
+  - {fileID: 11400000, guid: dc71266341f15434eba0a89aeff2db15, type: 2}
+  - {fileID: 11400000, guid: 8e2da4159e80f574eacfa482f48dde07, type: 2}
+  - {fileID: 11400000, guid: 8748acafe96daf341982029aa9d97331, type: 2}
+  - {fileID: 11400000, guid: b1bc03f6e0fc3c94b92ab8aebb96da8a, type: 2}
+  - {fileID: 11400000, guid: ab2ea40e99a4029439fcfff07faa75a2, type: 2}
+  - {fileID: 11400000, guid: c7c8dd1509d949848b3fc0d8de4b1712, type: 2}
+  - {fileID: 11400000, guid: 48ee91a387cf7a94bb416ebfcaf006f9, type: 2}
+  - {fileID: 11400000, guid: a179fcfbcd62b674289ea9d7a962932b, type: 2}
+  - {fileID: 11400000, guid: e40e64e0a1cf91049912561c5552b9c6, type: 2}
+  - {fileID: 11400000, guid: c4fdffa1dbbe3734382ea973d721121e, type: 2}
+  - {fileID: 11400000, guid: 0223b641db36bb144abde7ced6b041eb, type: 2}
+  zoneName: NY'ALOTHA
+  bossName: Fury of N'zoth
+  bossOrder: 10
+  bossHpValue: 369600000
+  berserkInSeconds: 549
+  causeOfDeath:
+  - Adds
+  - Regenerative Expulsion
+  - Mind Controll
+  - Breed Madness
+  - Madness Bomb
+  - Eternal Darkness
+  - Trashing Tentacle
+  benchEvent:
+  - Bench Lord didn't spread having Mind Bomb
+  - Bench Lord used rushed too early baiting raid group with him
+  - Bench Lord triggered cysts
+  howManyHealers: 3
+  howManyTanks: 2

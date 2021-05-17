@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Leav
+  m_EditorClassIdentifier: 
+  playerName: Leav
+  playerRole: Dps
+  playerClass: Hunter
+  playerProximity: Ranged
+  dps:
+  - 25369.4
+  - 30576.2
+  - 30358.5
+  - 29678.1
+  - 29142.2
+  - 26344
+  - 26211.8
+  - 14721.5
+  - 24793.8
+  hps:
+  - 1565.1
+  - 929.3
+  - 898.9
+  - 772.1
+  - 636.5
+  - 613.3
+  - 495.2
+  - 416.7
+  - 447.4
+  survivability:
+  - 76.7
+  - 95.5
+  - 52.2
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

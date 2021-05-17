@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c531198a8799691459d94afbfea2288a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentDatabase: {instanceID: 0}
+  - exportDatabase: {instanceID: 0}
+  - lightenBar: {instanceID: 0}
+  - tipWindow: {instanceID: 0}
+  - playerToExport: {instanceID: 0}
+  - radarMaterial: {fileID: 2100000, guid: eb633425b1602204a97763d47e87ac64, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Minelava
+  m_EditorClassIdentifier: 
+  playerName: Minelava
+  playerRole: Healer
+  playerClass: Monk
+  playerProximity: Melee
+  dps:
+  - 1956.9
+  - 1622.7
+  - 1541.8
+  - 2787.4
+  - 2350.7
+  - 1977.7
+  - 1977.7
+  - 1517.6
+  - 1359
+  - 1228.4
+  - 984.3
+  hps:
+  - 28527.5
+  - 28097.8
+  - 26875.6
+  - 26539.5
+  - 25419
+  - 24793
+  - 23464.8
+  - 23463.6
+  - 27107.8
+  - 25699.2
+  - 24756.9
+  survivability:
+  - 96.1
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

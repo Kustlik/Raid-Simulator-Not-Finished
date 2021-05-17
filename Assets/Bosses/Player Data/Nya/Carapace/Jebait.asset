@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Jebait
+  m_EditorClassIdentifier: 
+  playerName: Jebait
+  playerRole: Dps
+  playerClass: Druid
+  playerProximity: Ranged
+  dps:
+  - 50983
+  - 47661.1
+  - 39925.7
+  - 38319.7
+  - 34123.6
+  - 46742.4
+  - 42585.5
+  - 42385.4
+  - 40258.8
+  - 38881.7
+  hps:
+  - 9541.8
+  - 9509.5
+  - 8281.4
+  - 7543.4
+  - 7410.3
+  - 9864.7
+  - 9674
+  - 9401.1
+  - 8632.7
+  - 8015.3
+  survivability:
+  - 98.1
+  - 94.9
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

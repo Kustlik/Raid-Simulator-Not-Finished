@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Zul
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 3538b913b3bd2484499652956fdd57a9, type: 2}
+  - {fileID: 11400000, guid: f1d5577a4ce0110479976a9c6216ca7b, type: 2}
+  - {fileID: 11400000, guid: bc8ffdd25c5a52e4e98ee07a370df743, type: 2}
+  - {fileID: 11400000, guid: 18803088a5b225244b9076d9822fbead, type: 2}
+  - {fileID: 11400000, guid: dfe291c45b31db9479012f5be6ad77ce, type: 2}
+  - {fileID: 11400000, guid: eec1f88afd00ca743a89980e686f8e3c, type: 2}
+  - {fileID: 11400000, guid: b2562e8a85d660f4a8805c7e9b6b08cb, type: 2}
+  - {fileID: 11400000, guid: 1525ea9d465f4c64fb585c09edd3caef, type: 2}
+  - {fileID: 11400000, guid: 6be7d3428f4c59c4aa97e82a0b4bc0b3, type: 2}
+  - {fileID: 11400000, guid: 97f82de38ab94a64a8c7aa46eec3823a, type: 2}
+  - {fileID: 11400000, guid: 2e4685e59cce8864289bf09195c28294, type: 2}
+  - {fileID: 11400000, guid: 040ab04259427fb42bf2c6e9aa29f9bf, type: 2}
+  - {fileID: 11400000, guid: 03028202dcb54ab40b8c480857f2cdf1, type: 2}
+  - {fileID: 11400000, guid: eb17aa9ccf5b26e41a51b982b32b9b2d, type: 2}
+  - {fileID: 11400000, guid: 89a5d6c565357bb438aba5b97dd7ed93, type: 2}
+  - {fileID: 11400000, guid: 7edda1ea41bece54cba2691409357705, type: 2}
+  - {fileID: 11400000, guid: 21b14d47fe3ba1c42b6b14ab425592ad, type: 2}
+  - {fileID: 11400000, guid: ac947b4844efb404096950d767f24ac9, type: 2}
+  - {fileID: 11400000, guid: 0f809c92c4bff344e9a306361ba1915e, type: 2}
+  - {fileID: 11400000, guid: ce04670cd5dea9848945d43cad46830e, type: 2}
+  zoneName: ULDIR
+  bossName: Zul
+  bossOrder: 5
+  bossHpValue: 52200000
+  berserkInSeconds: 302
+  causeOfDeath:
+  - Pool of darkness soak
+  - Erupting Darkness AoE
+  - Suicide jump
+  - Crawg aggro
+  - Corrupted Blood DoT
+  benchEvent:
+  - Bench Lord didn't kill any crawgs
+  - Bench Lord detonated Erupting Darkness near boss
+  - Bench Lord leaved soak too soon
+  howManyHealers: 4
+  howManyTanks: 3

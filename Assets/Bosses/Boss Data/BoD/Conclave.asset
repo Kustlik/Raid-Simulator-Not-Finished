@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Conclave
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: ed33303482b38f14487e14bfaf49be04, type: 2}
+  - {fileID: 11400000, guid: 0c6d294b9a45c2742836a85db9a15de1, type: 2}
+  - {fileID: 11400000, guid: 274e9fdc63aede841979b45dce1cee28, type: 2}
+  - {fileID: 11400000, guid: 5fd7e2fad45303342a746eca48b257b6, type: 2}
+  - {fileID: 11400000, guid: 91bb6eb5eca831d40b8eaae9689b7f87, type: 2}
+  - {fileID: 11400000, guid: 1784d23cb6a1a684da7b1c6e0f8bf3b8, type: 2}
+  - {fileID: 11400000, guid: 669677843c532bd4cae3b12f9a11feaf, type: 2}
+  - {fileID: 11400000, guid: db080bb0cb5c87645a40084a5890bb8d, type: 2}
+  - {fileID: 11400000, guid: bba4915d0a6cadc4cb84ba0f3edd4f49, type: 2}
+  - {fileID: 11400000, guid: 3e1cead6a8d0f5a4294da2561ad0fe47, type: 2}
+  - {fileID: 11400000, guid: c4a1ef0fc63784540804047321c0f1f0, type: 2}
+  - {fileID: 11400000, guid: 7290cf86068799f4bb1bbb3eb9f111f2, type: 2}
+  - {fileID: 11400000, guid: 276f7969e7d239a4a91b1697059ad8e7, type: 2}
+  - {fileID: 11400000, guid: 5b1cb4ed6098fba47a96bb69c3e0040a, type: 2}
+  - {fileID: 11400000, guid: 1d6dec9c156dd0d4b83ba0129ffa4419, type: 2}
+  - {fileID: 11400000, guid: f00d68bf75417df45a913ccf0c0301e7, type: 2}
+  - {fileID: 11400000, guid: 157336a18ebd7c7429183db73578079a, type: 2}
+  - {fileID: 11400000, guid: 121d91c204cb9ad44a1d8e0f3433dc44, type: 2}
+  - {fileID: 11400000, guid: 48f574ed5d548184f94a27fdb2986d51, type: 2}
+  - {fileID: 11400000, guid: 20a98f2027e4b0a418c92d81d80c24dd, type: 2}
+  - {fileID: 11400000, guid: b135008c35e17004d95bb6c984b62a34, type: 2}
+  - {fileID: 11400000, guid: 4a20488dbb1ee7a4ca2eaf1409fe346d, type: 2}
+  - {fileID: 11400000, guid: 78d5a6c4888a97543bd55e17745ba824, type: 2}
+  - {fileID: 11400000, guid: dced7b89c1f229e4f8653157391fe9b7, type: 2}
+  - {fileID: 11400000, guid: 88f78315552cf4d499e2c44cae297c07, type: 2}
+  - {fileID: 11400000, guid: 36d2198ce09c48844be6f5b5e6786580, type: 2}
+  - {fileID: 11400000, guid: 6963fc8e550ebb6409e4a0c3264e7da8, type: 2}
+  - {fileID: 11400000, guid: 7eac0255c059a6a42beef97e818cfbd8, type: 2}
+  - {fileID: 11400000, guid: 420753b8572a2c1469c67d997221871a, type: 2}
+  - {fileID: 11400000, guid: 4aa7c23fdb2a87f408187f9306491e5c, type: 2}
+  - {fileID: 11400000, guid: 5684f7a6fe7827341903aa756afff0d7, type: 2}
+  - {fileID: 11400000, guid: b9077292d9de1fb45997212c8d530235, type: 2}
+  - {fileID: 11400000, guid: 558940655c8f0fa4fb4bf8d9262f1a13, type: 2}
+  - {fileID: 11400000, guid: 3df61fb51eb1cae44b96689d709bf510, type: 2}
+  - {fileID: 11400000, guid: 30f44fac2b9fc3843a7b8284eb95bd7e, type: 2}
+  - {fileID: 11400000, guid: ec17548ffe151034ba986aa1d0ac9d4f, type: 2}
+  - {fileID: 11400000, guid: 689ab1d4b9335ae47b64b9779b63ab95, type: 2}
+  - {fileID: 11400000, guid: 6514b2b9814c8dc488ef6d69945607c2, type: 2}
+  - {fileID: 11400000, guid: b8c9ec5981e946d47b5daaf7c9ee7e14, type: 2}
+  - {fileID: 11400000, guid: 3299225d1cb952247a925cd1461352d2, type: 2}
+  - {fileID: 11400000, guid: be3a4eb9e220e55419ce1ad413e4f3d2, type: 2}
+  - {fileID: 11400000, guid: c8c3616af1cecc8488de7fa956fb04a8, type: 2}
+  - {fileID: 11400000, guid: 2608d42c04d2e23479d6650d9e79cf9d, type: 2}
+  - {fileID: 11400000, guid: 2d3fd93d03c489642bc45c145c106218, type: 2}
+  - {fileID: 11400000, guid: dd5f1c5b09f36cb4da015e5aa24b0dcf, type: 2}
+  - {fileID: 11400000, guid: 3f9f38aa2bc10d34e96304b27e812549, type: 2}
+  - {fileID: 11400000, guid: 106c15c18cb22964593fab1e4e6f57a8, type: 2}
+  - {fileID: 11400000, guid: db911aafc32c97c4db31ce21c5c767f9, type: 2}
+  - {fileID: 11400000, guid: 0719e49071b640a43afeee8ba49fbe8f, type: 2}
+  - {fileID: 11400000, guid: eb428cc8bc3084d46b12a8a120f1016f, type: 2}
+  - {fileID: 11400000, guid: 2081a872ee74c164cb40995f9d401b76, type: 2}
+  - {fileID: 11400000, guid: d231db471fc3898448d3e262bcdca7df, type: 2}
+  - {fileID: 11400000, guid: fce729f8b7d5bf048aea7bd8ad98aeb4, type: 2}
+  zoneName: BATTLE OF DAZAR'ALOR
+  bossName: Conclave of the Chosen
+  bossOrder: 4
+  bossHpValue: 75018160
+  berserkInSeconds: 505
+  causeOfDeath:
+  - Bwonsamdi's Wrath
+  - Pa'ku's Wrath
+  - Krag'wa's Wrath
+  - Thundering Storm
+  - 'Gonk''s Wrath '
+  - Kimbul's Wrath
+  - Cry of the Fallen
+  benchEvent:
+  - Bench Lord baited Krag'wa into Raid
+  - Bench Lord called wrong safe spot
+  - Bench Lord stacked with others Kimbul's Wrath
+  - Bench Lord knock backed adds to their fixate targets
+  howManyHealers: 4
+  howManyTanks: 2

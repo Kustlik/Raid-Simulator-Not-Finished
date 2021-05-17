@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Alammar
+  m_EditorClassIdentifier: 
+  playerName: Alammar
+  playerRole: Dps
+  playerClass: Paladin
+  playerProximity: Melee
+  dps:
+  - 32023.7
+  - 29363.4
+  - 35430.1
+  - 35218.6
+  - 33931.9
+  - 33314.1
+  - 33166.4
+  - 33129.2
+  - 32438
+  - 32436.5
+  - 32071.4
+  - 30220
+  hps:
+  - 2647.2
+  - 2555.2
+  - 2498.3
+  - 2314.1
+  - 2314
+  - 2298.6
+  - 2110.2
+  - 1852.1
+  - 1859.8
+  - 1687.6
+  - 2144.9
+  - 1904.5
+  survivability:
+  - 96.5
+  - 96.7
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

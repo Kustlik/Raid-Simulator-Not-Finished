@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Situhl
+  m_EditorClassIdentifier: 
+  playerName: Situhl
+  playerRole: Dps
+  playerClass: Shaman
+  playerProximity: Ranged
+  dps:
+  - 15583.6
+  - 14460.6
+  - 12881.1
+  - 11307.2
+  hps:
+  - 1050
+  - 1024
+  - 582.8
+  - 246.8
+  survivability:
+  - 98.3
+  - 95.2
+  - 90.6
+  - 100

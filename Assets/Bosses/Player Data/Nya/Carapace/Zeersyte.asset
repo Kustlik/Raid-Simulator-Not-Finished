@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Zeersyte
+  m_EditorClassIdentifier: 
+  playerName: Zeersyte
+  playerRole: Dps
+  playerClass: Priest
+  playerProximity: Ranged
+  dps:
+  - 53532.5
+  - 48489.5
+  - 42385.5
+  - 42038.8
+  - 39476.9
+  - 31416.3
+  hps:
+  - 15123.2
+  - 13281.6
+  - 12727
+  - 12086.8
+  - 11491
+  - 16738.9
+  survivability:
+  - 81.2
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

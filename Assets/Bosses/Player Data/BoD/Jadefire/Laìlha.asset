@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: "La\xEClha"
+  m_EditorClassIdentifier: 
+  playerName: "La\xEClha"
+  playerRole: Healer
+  playerClass: Priest
+  playerProximity: Ranged
+  dps:
+  - 1772.5
+  - 1687.2
+  - 1485.8
+  - 1310.1
+  - 1268.5
+  - 1899.6
+  - 1748.3
+  - 1584.8
+  - 1308.4
+  - 1238
+  - 1095.6
+  - 966.3
+  - 789.9
+  hps:
+  - 40502.1
+  - 40100.7
+  - 38442.1
+  - 36036.1
+  - 35971.4
+  - 33641.3
+  - 33303.5
+  - 33157.2
+  - 40947.3
+  - 40453.9
+  - 38345.9
+  - 36187.7
+  - 32685.7
+  survivability:
+  - 90.4
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

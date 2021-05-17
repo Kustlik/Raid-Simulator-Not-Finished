@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Illandier
+  m_EditorClassIdentifier: 
+  playerName: Illandier
+  playerRole: Healer
+  playerClass: Paladin
+  playerProximity: Melee
+  dps:
+  - 4184.1
+  - 4264.9
+  - 3345.3
+  - 3056.5
+  - 3039.5
+  hps:
+  - 27697.4
+  - 26835
+  - 26549.6
+  - 24014.4
+  - 28254.7
+  survivability:
+  - 94.8
+  - 84.9
+  - 99.9
+  - 100
+  - 100

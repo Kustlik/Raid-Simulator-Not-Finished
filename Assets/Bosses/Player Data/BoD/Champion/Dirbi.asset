@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Dirbi
+  m_EditorClassIdentifier: 
+  playerName: Dirbi
+  playerRole: Dps
+  playerClass: Hunter
+  playerProximity: Ranged
+  dps:
+  - 29877.8
+  - 27700
+  - 26894.1
+  - 24743.4
+  - 13694.7
+  - 10867.7
+  - 33524.1
+  - 32923.5
+  - 32885.8
+  - 31714.3
+  - 31651.2
+  - 31044
+  - 23707.5
+  hps:
+  - 1258.2
+  - 1229
+  - 1114.6
+  - 1099.9
+  - 1088.9
+  - 822.8
+  - 624.3
+  - 1129.2
+  - 572.9
+  - 508.7
+  - 399.9
+  - 252.4
+  - 206.5
+  survivability:
+  - 85.8
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

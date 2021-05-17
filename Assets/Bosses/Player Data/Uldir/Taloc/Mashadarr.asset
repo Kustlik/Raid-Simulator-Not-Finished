@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Mashadarr
+  m_EditorClassIdentifier: 
+  playerName: Mashadarr
+  playerRole: Dps
+  playerClass: Demon Retard
+  playerProximity: Melee
+  dps:
+  - 11162.8
+  - 10158.5
+  - 9723.2
+  - 8875.4
+  - 7936.9
+  - 3415.8
+  hps:
+  - 1563.8
+  - 1288.2
+  - 1199.4
+  - 860.7
+  - 485.1
+  - 322.1
+  survivability:
+  - 40.5
+  - 100
+  - 10.4
+  - 100
+  - 100
+  - 100

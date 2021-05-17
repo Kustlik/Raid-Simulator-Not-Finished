@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Klimentyna
+  m_EditorClassIdentifier: 
+  playerName: Klimentyna
+  playerRole: Dps
+  playerClass: Priest
+  playerProximity: Ranged
+  dps:
+  - 42401
+  - 39150.8
+  - 33286.9
+  - 32123
+  hps:
+  - 25021.4
+  - 24234.2
+  - 23996.8
+  - 23381.5
+  survivability:
+  - 97
+  - 74.8
+  - 100
+  - 100

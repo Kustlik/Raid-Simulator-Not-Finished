@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Zek'voz
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 11400000, guid: da0df8c6341033b4b8f6c68241a23acf, type: 2}
+  - {fileID: 11400000, guid: 5f4a2c5190a626d4a98276c4ab04c741, type: 2}
+  - {fileID: 11400000, guid: d14b26892cbc7a4469703b710633c63d, type: 2}
+  - {fileID: 11400000, guid: 29afff613829c404999276d756a2be96, type: 2}
+  - {fileID: 11400000, guid: ce19550425dca0e429a368522581a35e, type: 2}
+  - {fileID: 11400000, guid: 4443ee85c39bc4c41b4dd6ee403d3c67, type: 2}
+  - {fileID: 11400000, guid: 2ddc521168c01c644bac9045fab939d4, type: 2}
+  - {fileID: 11400000, guid: 10c99545fe2b77d4e83648c2f25a5b95, type: 2}
+  - {fileID: 11400000, guid: 4c234636a8c4b174683b4692717f58e7, type: 2}
+  - {fileID: 11400000, guid: 24b8d40cc38044042b43e7c18595b825, type: 2}
+  - {fileID: 11400000, guid: 285dcab17039a4749a8d4d3d609564a2, type: 2}
+  - {fileID: 11400000, guid: 0ce3816af32b07640aff077245887a95, type: 2}
+  - {fileID: 11400000, guid: 6dff1f7d1024e254baaea0e9afb9ed2f, type: 2}
+  - {fileID: 11400000, guid: dc3c3a9afa18bb445af2da1c002019f1, type: 2}
+  - {fileID: 11400000, guid: 3ede7b8332f094549b00ad53184e09ab, type: 2}
+  - {fileID: 11400000, guid: 78dbe868cc9634142ab09a79521288e9, type: 2}
+  - {fileID: 11400000, guid: d89280ca19163ce4eb88ef60ac694837, type: 2}
+  - {fileID: 11400000, guid: 849c3e91feb268847a32795664e0e536, type: 2}
+  - {fileID: 11400000, guid: 83c1436a4fc94b64189c303feb656769, type: 2}
+  - {fileID: 11400000, guid: 4760814beaeb59d498b4ad76e0d4262e, type: 2}
+  - {fileID: 11400000, guid: 711455a0d78ab184cbe98ddee5cbf939, type: 2}
+  - {fileID: 11400000, guid: d3c28a6c8a316bb429268242dd3d1500, type: 2}
+  - {fileID: 11400000, guid: 5e769c49a6f3370409d25b53dcdd983b, type: 2}
+  - {fileID: 11400000, guid: 8ae5d2bf344349f4fa831719b5423064, type: 2}
+  - {fileID: 11400000, guid: 70c2d027cfb787c499b405e22440c93e, type: 2}
+  - {fileID: 11400000, guid: 0e2545cb9e73da843993e0ef6db8a655, type: 2}
+  - {fileID: 11400000, guid: 7117005605675fe45b2b41aafbf5f805, type: 2}
+  - {fileID: 11400000, guid: 07011edaf92d5f948b50bd21be5eea26, type: 2}
+  - {fileID: 11400000, guid: 2a3f0ac53c554904083bad0da9406f27, type: 2}
+  - {fileID: 11400000, guid: 22d06a90bf960574aade38f297bf6363, type: 2}
+  - {fileID: 11400000, guid: 09607362378156043a2bebc8793fde3a, type: 2}
+  - {fileID: 11400000, guid: a6a39ed95b58d794cb89f2c08ed5b707, type: 2}
+  - {fileID: 11400000, guid: d1d5016867bf8c94a971e0eec16018e6, type: 2}
+  - {fileID: 11400000, guid: 290f5a2e51a71674f871282860d42dec, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  zoneName: ULDIR
+  bossName: Zek'voz
+  bossOrder: 2
+  bossHpValue: 79246856
+  berserkInSeconds: 624
+  causeOfDeath:
+  - Void ring
+  - Cleave
+  - Eye beam
+  - Adds aggro
+  - Roiling Deceit DoT
+  - Ominous Cloud Pool
+  - High damage taken
+  benchEvent:
+  - Bench Lord stepped out from Orb of Corruption
+  - Bench Lord dropped Ominous Cloud at the Boss
+  - Bench Lord didn't spread out for beam
+  - Bench Lord knockbacked adds into other raid members
+  howManyHealers: 3
+  howManyTanks: 2

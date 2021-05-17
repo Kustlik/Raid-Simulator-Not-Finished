@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Greasy
+  m_EditorClassIdentifier: 
+  playerName: Greasy
+  playerRole: Dps
+  playerClass: Priest
+  playerProximity: Ranged
+  dps:
+  - 47791.9
+  - 46584.7
+  - 13205.4
+  hps:
+  - 14873.9
+  - 10990.4
+  - 6578.6
+  survivability:
+  - 55.4
+  - 100
+  - 100

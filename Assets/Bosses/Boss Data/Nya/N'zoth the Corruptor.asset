@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: N'zoth the Corruptor
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 14496df28e274ab41a9114ac0ee4ebbd, type: 2}
+  - {fileID: 11400000, guid: 11693e000619ac9409ade58ece062825, type: 2}
+  - {fileID: 11400000, guid: 5a85a56053b6d474d824ee75806d126b, type: 2}
+  - {fileID: 11400000, guid: 64beb26ec0a008d4e8d802cbe6c4dd06, type: 2}
+  - {fileID: 11400000, guid: 4be5b47b1433c5e4a8ea28d95a9d9987, type: 2}
+  - {fileID: 11400000, guid: 057befa59f795eb41b50ced0f49a2bd2, type: 2}
+  - {fileID: 11400000, guid: c5ac49b2910914947b5f955c052b2dc7, type: 2}
+  - {fileID: 11400000, guid: 2fc1bd3c0851c334498a3fdaf3916cb6, type: 2}
+  - {fileID: 11400000, guid: 69f628450d7921944b7d3160bc9a5410, type: 2}
+  - {fileID: 11400000, guid: d7822fae738e8cc4393a25c0a1201db1, type: 2}
+  - {fileID: 11400000, guid: 864873be3fe8e294e9fa7bbc9f5e8f47, type: 2}
+  - {fileID: 11400000, guid: 35d9dfc30814fb44cb8373d21b020b89, type: 2}
+  - {fileID: 11400000, guid: 21ed31cf283b1a540b6069858b2db1f7, type: 2}
+  - {fileID: 11400000, guid: 78162750d6efa9f4ba589832b37f3838, type: 2}
+  - {fileID: 11400000, guid: 43c4b7bd15bc62440bf557ff81e2d5f2, type: 2}
+  - {fileID: 11400000, guid: a4c978c8b80435042b3e75324757f75c, type: 2}
+  - {fileID: 11400000, guid: 038c0a94dd82f4f4db1b8d80b28f4983, type: 2}
+  - {fileID: 11400000, guid: 09a1cce2b147ec1469077069ade49c78, type: 2}
+  - {fileID: 11400000, guid: 46246c39b9d6ba14a9ed1a6a86022e6d, type: 2}
+  - {fileID: 11400000, guid: 88ddf804288f3d349aab0c0daaaf343d, type: 2}
+  - {fileID: 11400000, guid: e4c2f09ce442b834cb5824a2f9098fc0, type: 2}
+  - {fileID: 11400000, guid: 673c1c5c7be55b44a94b169483f29428, type: 2}
+  - {fileID: 11400000, guid: 908d98cff1af5544a83d6f2ac77eb532, type: 2}
+  - {fileID: 11400000, guid: b413f0afb34313a4993e51225acd69de, type: 2}
+  - {fileID: 11400000, guid: 2bd5a2db81193914d82717b3cbe7c836, type: 2}
+  - {fileID: 11400000, guid: ededbe62198ef9c46bcfc3ad33ff37dc, type: 2}
+  - {fileID: 11400000, guid: e98ab0f199493e240ad66b4cb9c43f03, type: 2}
+  - {fileID: 11400000, guid: 8f18dee0320adb641a7da57433577f96, type: 2}
+  - {fileID: 11400000, guid: 815f90d90ad44ef4e9f973891790de7d, type: 2}
+  - {fileID: 11400000, guid: af00fb1e17238374ea8a6aab1382d8a7, type: 2}
+  - {fileID: 11400000, guid: 0bde2a4a9d7449e42b44051037a91f6c, type: 2}
+  - {fileID: 11400000, guid: f72b0d0d81438734c982ba44ed5484f2, type: 2}
+  - {fileID: 11400000, guid: a6e4bb7f18122a344a619c0517ddafec, type: 2}
+  - {fileID: 11400000, guid: 25769d29fe39e864cb0491854d77a577, type: 2}
+  - {fileID: 11400000, guid: dff4acd39651eaf43bdf59114b44479a, type: 2}
+  - {fileID: 11400000, guid: f59644594afd6f5499ff64d0b712088c, type: 2}
+  - {fileID: 11400000, guid: ebfb813889d437b498f62ece058e9663, type: 2}
+  - {fileID: 11400000, guid: 09246efab3fd87c41a32542b11591578, type: 2}
+  - {fileID: 11400000, guid: 439399de82ece9a4c9ccc598ab0b0875, type: 2}
+  - {fileID: 11400000, guid: 6e3a60e54e7357c4c909182a184d45f6, type: 2}
+  zoneName: NY'ALOTHA
+  bossName: N'zoth the Corruptor
+  bossOrder: 11
+  bossHpValue: 370786560
+  berserkInSeconds: 778
+  causeOfDeath:
+  - Paranoia
+  - Adds
+  - Mindgrasp
+  - Evoke Anguish
+  - Pool of Anguish
+  - Cleansing Protocol
+  - Dying add AoE
+  - Stupefying Glare
+  - Infinity's Toll
+  benchEvent:
+  - Bench Lord knockbacked adds the wrong way
+  - Bench Lord didn't use Mind Gate
+  - Bench Lord was running through others while Paranoia was up
+  howManyHealers: 3
+  howManyTanks: 2

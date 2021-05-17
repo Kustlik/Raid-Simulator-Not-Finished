@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Pandaramix
+  m_EditorClassIdentifier: 
+  playerName: Pandaramix
+  playerRole: Dps
+  playerClass: Priest
+  playerProximity: Ranged
+  dps:
+  - 3469.9
+  - 4449.5
+  - 5416.5
+  - 9261.4
+  - 10030.4
+  hps:
+  - 1125.3
+  - 1080.6
+  - 678.5
+  - 637
+  - 235.6
+  survivability:
+  - 37.1
+  - 71.2
+  - 76.9
+  - 100
+  - 100

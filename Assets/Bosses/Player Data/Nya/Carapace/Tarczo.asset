@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Tarczo
+  m_EditorClassIdentifier: 
+  playerName: Tarczo
+  playerRole: Tank
+  playerClass: Warrior
+  playerProximity: Melee
+  dps:
+  - 42856.6
+  - 42084.9
+  - 41922.2
+  - 40748.3
+  - 37713.8
+  - 35932.3
+  - 36023.5
+  - 35861.6
+  - 34494.8
+  - 31969.4
+  - 25208.8
+  hps:
+  - 21223.4
+  - 20885.7
+  - 20449.4
+  - 17269.4
+  - 14469.4
+  - 13907
+  - 24806.7
+  - 23909.4
+  - 20972.4
+  - 20731.1
+  - 17953.1
+  survivability:
+  - 99.5
+  - 70.4
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

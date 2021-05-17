@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Bobik
+  m_EditorClassIdentifier: 
+  playerName: Bobik
+  playerRole: Tank
+  playerClass: Monk
+  playerProximity: Melee
+  dps:
+  - 8569.5
+  - 8014
+  - 7931.8
+  - 7728.8
+  - 7608.9
+  - 10571.7
+  - 10243.1
+  - 10107.9
+  - 8806
+  - 8736.1
+  - 8128.1
+  - 7764.2
+  hps:
+  - 17343.7
+  - 16066.3
+  - 13630.1
+  - 12140.7
+  - 11294.2
+  - 10623.6
+  - 10130.7
+  - 9284.4
+  - 8715.6
+  - 7958.6
+  - 7569.1
+  - 7181.1
+  survivability:
+  - 94.9
+  - 95.5
+  - 91.9
+  - 96.9
+  - 96.7
+  - 89.1
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

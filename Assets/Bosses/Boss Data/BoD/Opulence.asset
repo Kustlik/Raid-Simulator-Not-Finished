@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Opulence
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: ec5e658666a6bf443be326a84a0f44fd, type: 2}
+  - {fileID: 11400000, guid: 65980732656d8bc4a87161657181f692, type: 2}
+  - {fileID: 11400000, guid: 35b37be8d5ebd8f458ee62d2c52639f6, type: 2}
+  - {fileID: 11400000, guid: 6daa51c89907f374584d1d419fce60cb, type: 2}
+  - {fileID: 11400000, guid: b9b651c4ba8eac84d9f0b82a544c8a64, type: 2}
+  - {fileID: 11400000, guid: d7217f0b8696af9488bd7a992acb118d, type: 2}
+  - {fileID: 11400000, guid: ab289cbb8b696e94b8e61f8776da2c22, type: 2}
+  - {fileID: 11400000, guid: 2d963a4399fc599429c467db532edae2, type: 2}
+  - {fileID: 11400000, guid: ada6feff27bb744438ef51ea903a7481, type: 2}
+  - {fileID: 11400000, guid: 45303b0cce9b89e488e0c99c15dd111f, type: 2}
+  - {fileID: 11400000, guid: bd98953829a9de3438851409640bbefd, type: 2}
+  - {fileID: 11400000, guid: 3b4ae0fd39efb7e4f959135ebfb6c3f1, type: 2}
+  - {fileID: 11400000, guid: c26a7779518867a44acea433e9f1ab3a, type: 2}
+  - {fileID: 11400000, guid: 9eda38165d4fb47418b7b10936c676c2, type: 2}
+  - {fileID: 11400000, guid: db6d159976199e841874af2d1d08da51, type: 2}
+  - {fileID: 11400000, guid: 15e72804b6decd741a05940252c70a4b, type: 2}
+  - {fileID: 11400000, guid: bce855aae6eec3840ba5fb0ad2302737, type: 2}
+  - {fileID: 11400000, guid: 759a63a1dbf0c854086b352ce279bd37, type: 2}
+  - {fileID: 11400000, guid: 563aba9ff55d2f448a20bcf2f25feff1, type: 2}
+  - {fileID: 11400000, guid: 95ceaec67a683994c9e20a7c12eecf8f, type: 2}
+  - {fileID: 11400000, guid: e136321c25d167e4a9d7486252ed4393, type: 2}
+  - {fileID: 11400000, guid: ef59f88780f052843a6fd4eb09674d02, type: 2}
+  - {fileID: 11400000, guid: 2c6aad57b2ef1fd428f605fda52170da, type: 2}
+  - {fileID: 11400000, guid: 5e474dd02e634b849a1baa413de0b2ca, type: 2}
+  - {fileID: 11400000, guid: a22e281100436c742aa9b5c12d87a76f, type: 2}
+  - {fileID: 11400000, guid: 13f9487a63f81ae4b9bb896b83291761, type: 2}
+  - {fileID: 11400000, guid: 2515a7b363c72594a861e2638bc5a88a, type: 2}
+  - {fileID: 11400000, guid: 0353f540a7d7a484b9040cb1db7c8f8c, type: 2}
+  - {fileID: 11400000, guid: 42a9e94d487c4464fbca55eccb252f8f, type: 2}
+  - {fileID: 11400000, guid: 09aff831bbf463c4c903729cd0476cf4, type: 2}
+  - {fileID: 11400000, guid: cceaad3aa65d6b547b7f42999d1d53c5, type: 2}
+  - {fileID: 11400000, guid: 09cc6a4fd53e5c044b8b21450c7419f6, type: 2}
+  - {fileID: 11400000, guid: 1c4876ccf7faf3544b73ede303befbbd, type: 2}
+  - {fileID: 11400000, guid: 236aa20412e60454f8afc2ce400a263c, type: 2}
+  - {fileID: 11400000, guid: 80e640f577293044bad499cae595711c, type: 2}
+  - {fileID: 11400000, guid: dd31fa2b04eaaed4cb66b3ffa2858cab, type: 2}
+  - {fileID: 11400000, guid: 79acadb1b6ccfb846a7eaac30f52d43e, type: 2}
+  - {fileID: 11400000, guid: c48f9e5755bf6f641a9efddf62060e84, type: 2}
+  - {fileID: 11400000, guid: 8d4d97f6da5077d4e8e1b030d1e4f715, type: 2}
+  - {fileID: 11400000, guid: 3308d57948d3a724daa21536a2c7c29d, type: 2}
+  - {fileID: 11400000, guid: c4e9eb55313443541a272e33748803d3, type: 2}
+  - {fileID: 11400000, guid: 770c93ec3fc5db24cad6f8e5d90818bd, type: 2}
+  - {fileID: 11400000, guid: c2caa6c8c04e8c34fa1065bbedb12c41, type: 2}
+  - {fileID: 11400000, guid: ff052c57e81b4144db9fe29b38a20618, type: 2}
+  - {fileID: 11400000, guid: 5a8a6da0708e92a4ebe873d06c24cbc3, type: 2}
+  - {fileID: 11400000, guid: 261290bf9fbf064408f5907ba6f1e676, type: 2}
+  - {fileID: 11400000, guid: 72347259187ca754e9e2c927bad4dc14, type: 2}
+  - {fileID: 11400000, guid: 63a179e052244cc41b2342124e1b81a2, type: 2}
+  - {fileID: 11400000, guid: 201f4075dc9788b449f2138b7f2ca4db, type: 2}
+  - {fileID: 11400000, guid: 0acc2a82cd1ddb646b9af286bbef5dc4, type: 2}
+  - {fileID: 11400000, guid: e7c331036719b6b46b0de4632a6c20ca, type: 2}
+  - {fileID: 11400000, guid: 96f5d136c66344747b77c8221146d988, type: 2}
+  - {fileID: 11400000, guid: 019d7a19724cab14d863fcc58b7141a1, type: 2}
+  - {fileID: 11400000, guid: 0194212c80b31ef41a9f07b7ebd90bdf, type: 2}
+  - {fileID: 11400000, guid: 131493201acd4e742a469f63ddc247b4, type: 2}
+  - {fileID: 11400000, guid: c7877b6f8e3922c48b56004527638559, type: 2}
+  - {fileID: 11400000, guid: 30325ae997a0166419df51aa801dc33c, type: 2}
+  zoneName: BATTLE OF DAZAR'ALOR
+  bossName: Opulence
+  bossOrder: 3
+  bossHpValue: 104489580
+  berserkInSeconds: 680
+  causeOfDeath:
+  - High Damage Taken
+  - Flames of Punishment
+  - Flame Jet
+  - Ruby Beam
+  - Crush
+  - Thief's Bane
+  - Volatile Charge
+  - Molten Gold
+  - Liquid Gold
+  - Coin Shower
+  - Wail of Greed
+  benchEvent:
+  - Bench Lord baited teleport into the flames
+  - Bench Lord stacked Coin Shower into the raid, instead sacrificing himself.
+  - Bench Lord dropped Molten Gold near Boss.
+  howManyHealers: 4
+  howManyTanks: 2

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Moonconi
+  m_EditorClassIdentifier: 
+  playerName: Moonconi
+  playerRole: Dps
+  playerClass: Druid
+  playerProximity: Ranged
+  dps:
+  - 13755.8
+  - 12164.3
+  - 8588.6
+  - 5505.6
+  - 21701.7
+  - 18507
+  - 17251.5
+  - 16197.7
+  - 15576.1
+  hps:
+  - 4175.4
+  - 3674.8
+  - 3041.6
+  - 2609.9
+  - 3598.3
+  - 3539.5
+  - 3495.5
+  - 3183.3
+  - 2852.1
+  survivability:
+  - 98.4
+  - 75
+  - 34.9
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

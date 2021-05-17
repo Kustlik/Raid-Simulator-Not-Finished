@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Mythrax
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4b006f2296919034f9a1d76794e90260, type: 2}
+  - {fileID: 11400000, guid: bab334c52c3fec14b86ababa5f7b9ce7, type: 2}
+  - {fileID: 11400000, guid: 2032be71f85172e49a7acae4f1e714da, type: 2}
+  - {fileID: 11400000, guid: 41d22515e2b7d5e46a5f2b2472045a38, type: 2}
+  - {fileID: 11400000, guid: 7fc2ae83a93e6ed4ca62b39012a1f49d, type: 2}
+  - {fileID: 11400000, guid: b3a45d5410085be44b176313bd71f833, type: 2}
+  - {fileID: 11400000, guid: 254700faefdd9b5468c278e9ed6f7c09, type: 2}
+  - {fileID: 11400000, guid: 774e66f784411a442a3e5615bbb87468, type: 2}
+  - {fileID: 11400000, guid: 5510f4bc8eb141d4aa5c094ab37df41a, type: 2}
+  - {fileID: 11400000, guid: 36ea14ffc581b7147959e970c44562fb, type: 2}
+  - {fileID: 11400000, guid: 2023698748ba68d48b0a8aff47bdc7a1, type: 2}
+  - {fileID: 11400000, guid: 76a9836fcceb38e418df43fdc52c2d99, type: 2}
+  - {fileID: 11400000, guid: 81ef08a352ed7fb4a8f2d9d12a56f6a3, type: 2}
+  - {fileID: 11400000, guid: 7e9641e11abe2fe48b4e8184521f5d51, type: 2}
+  - {fileID: 11400000, guid: 72217334f870b784d92bebf974a1f099, type: 2}
+  - {fileID: 11400000, guid: 2e1956ca8f49809489e9778c067bfc2f, type: 2}
+  - {fileID: 11400000, guid: 19b878841120be34ba4bbc41d2e8d56e, type: 2}
+  - {fileID: 11400000, guid: 55990b6cad18ca64b85986f7a9bc42e5, type: 2}
+  - {fileID: 11400000, guid: bc702255550b31d4682c9ce0d4f6e7f1, type: 2}
+  - {fileID: 11400000, guid: 77dbe99cde3951f47be5405fc0d397f2, type: 2}
+  zoneName: ULDIR
+  bossName: Mythrax the Unraveler
+  bossOrder: 6
+  bossHpValue: 61500000
+  berserkInSeconds: 599
+  causeOfDeath:
+  - Crashing Oblivion AoE
+  - Cleave
+  - Mind Flay not interrupted
+  - Imminent Ruin AoE
+  - Laser
+  benchEvent:
+  - Bench Lord kicked too many members from orb
+  - Bench Lord taunted boss
+  howManyHealers: 4
+  howManyTanks: 2

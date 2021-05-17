@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: ab27ebd5f8a6abf42bfaeaa4f424c157
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - materialTexture: {fileID: 2100000, guid: eb633425b1602204a97763d47e87ac64, type: 2}
+  - playerData: {instanceID: 0}
+  - allPlayers: {instanceID: 0}
+  - roleIcon: {instanceID: 0}
+  - classIcon: {instanceID: 0}
+  - classBar: {instanceID: 0}
+  - nick: {instanceID: 0}
+  - minDpsBar: {instanceID: 0}
+  - maxDpsBar: {instanceID: 0}
+  - minHpsBar: {instanceID: 0}
+  - maxHpsBar: {instanceID: 0}
+  - minSurviBar: {instanceID: 0}
+  - maxSurviBar: {instanceID: 0}
+  - tankSprite: {instanceID: 0}
+  - mDpsSprite: {instanceID: 0}
+  - rDpsSprite: {instanceID: 0}
+  - mHpsSprite: {instanceID: 0}
+  - rHpsSprite: {instanceID: 0}
+  - priestS: {instanceID: 0}
+  - mageS: {instanceID: 0}
+  - warlockS: {instanceID: 0}
+  - demonRetardS: {instanceID: 0}
+  - druidS: {instanceID: 0}
+  - rogueS: {instanceID: 0}
+  - monkS: {instanceID: 0}
+  - hunterS: {instanceID: 0}
+  - shamanS: {instanceID: 0}
+  - warriorS: {instanceID: 0}
+  - paladinS: {instanceID: 0}
+  - deathKnightS: {instanceID: 0}
+  - image: {instanceID: 0}
+  - text: {instanceID: 0}
+  - tempMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

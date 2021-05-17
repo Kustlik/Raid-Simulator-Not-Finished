@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Champion
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: c312dc7cb9081c54ea5230809801edc8, type: 2}
+  - {fileID: 11400000, guid: 2d49da4d37832f34d8e989a291cdccc6, type: 2}
+  - {fileID: 11400000, guid: 89c888b0af5b35f4b9eaaccf34e78da0, type: 2}
+  - {fileID: 11400000, guid: 1db3008e60aaa504195d3617da15fb1d, type: 2}
+  - {fileID: 11400000, guid: daa3123e6008d2f43abc731306265f80, type: 2}
+  - {fileID: 11400000, guid: e27eb001afe4fdb4c906bd750f78b6b5, type: 2}
+  - {fileID: 11400000, guid: ceb82d630fd16d24dace905d4e318e52, type: 2}
+  - {fileID: 11400000, guid: 140f2e923054a084692bc2d6c80d8df0, type: 2}
+  - {fileID: 11400000, guid: e9c255c91507d9e4a907af953da73f36, type: 2}
+  - {fileID: 11400000, guid: 3327d4fb5fe473d4287336c083c2cad2, type: 2}
+  - {fileID: 11400000, guid: b883da1928b13e346a9f87538176a14a, type: 2}
+  - {fileID: 11400000, guid: cc91718aeed598d429726a951cdca952, type: 2}
+  - {fileID: 11400000, guid: 0be7f611d7612764aafa34cb9ad07be4, type: 2}
+  - {fileID: 11400000, guid: a6bf6116228ded64eae6b670ae36ab13, type: 2}
+  - {fileID: 11400000, guid: f1b1a3e222a4dbc4ab414430be305222, type: 2}
+  - {fileID: 11400000, guid: ed890e65ff929884198b427403c51ab7, type: 2}
+  - {fileID: 11400000, guid: e1683c1789a834b468dae07a92830f40, type: 2}
+  - {fileID: 11400000, guid: b66939b890324e6418b9e6a11f7f7000, type: 2}
+  - {fileID: 11400000, guid: 5a7926ba6fc9a8b4dab4f47ddcafc93f, type: 2}
+  - {fileID: 11400000, guid: 3cb9409ce53475247929f150b8253d2f, type: 2}
+  - {fileID: 11400000, guid: 9fb8c693adf4acf4eb8ebc6b9ec78ee6, type: 2}
+  - {fileID: 11400000, guid: 58e9712c547bf2c46a4e8cda26584476, type: 2}
+  - {fileID: 11400000, guid: 45e5b725bb4808d4bba3ef6b70f1cd04, type: 2}
+  - {fileID: 11400000, guid: 82a705e9d4ff4a64f9fd8723b46450e6, type: 2}
+  - {fileID: 11400000, guid: ea659d44fc85d9a498f4dd2f837b7529, type: 2}
+  - {fileID: 11400000, guid: e12e9714704550d4f9771ae020cc3853, type: 2}
+  - {fileID: 11400000, guid: d2cbba418f7c2da48831b183b4659612, type: 2}
+  - {fileID: 11400000, guid: db2287e3775e6be4c83bef3249629f1a, type: 2}
+  - {fileID: 11400000, guid: 9387bf2327218ee40a00920815f5e524, type: 2}
+  - {fileID: 11400000, guid: 249cab5195836db409d07aa7ad095522, type: 2}
+  - {fileID: 11400000, guid: 3104e4fa126269f43b9778e79e739f93, type: 2}
+  - {fileID: 11400000, guid: 3b2b3fe78ea154c49a41bb3e35920b69, type: 2}
+  - {fileID: 11400000, guid: d8458a765a492084ca66c4e3fef1e604, type: 2}
+  - {fileID: 11400000, guid: 8c9333bd4d0b3c94b98679a059b6036f, type: 2}
+  - {fileID: 11400000, guid: 27ea407caeb56b34085dad613486cb96, type: 2}
+  - {fileID: 11400000, guid: d0cbe6b3f16847e42ae1d35e6d407f32, type: 2}
+  - {fileID: 11400000, guid: b72e31b7d11b3e945ab65d96052af74b, type: 2}
+  - {fileID: 11400000, guid: e380f69ba3bae0c4da8415acd9ba43a6, type: 2}
+  - {fileID: 11400000, guid: 6b2e63d4b54670146ad244eeca64efe5, type: 2}
+  - {fileID: 11400000, guid: d0a14525e5ac6294fbf777ee6389bb71, type: 2}
+  - {fileID: 11400000, guid: 6f89f6207bb9f754195ef5a6c4befd20, type: 2}
+  - {fileID: 11400000, guid: 7b1ff58df3aa01e4a8b9afcc57b75a8e, type: 2}
+  - {fileID: 11400000, guid: 6757abf520b7f064695a80f5bb629bed, type: 2}
+  - {fileID: 11400000, guid: 97979cc834d2e154dac097b8bf39fb26, type: 2}
+  - {fileID: 11400000, guid: c7b5690c43c5ec644aacfb3dd35fdba2, type: 2}
+  - {fileID: 11400000, guid: bfc3ad10388d79f42969ed2c8d26e47c, type: 2}
+  - {fileID: 11400000, guid: 955536548da18e848bec19eb12f0b219, type: 2}
+  - {fileID: 11400000, guid: 41a9f76933d9b0440a876b21d1f51acb, type: 2}
+  - {fileID: 11400000, guid: e10a4b7d23a8c644686e34c6fa0cbd99, type: 2}
+  - {fileID: 11400000, guid: 5d1abafe2df10e6429139306caf8f429, type: 2}
+  - {fileID: 11400000, guid: 15e3eeff86b83f045a80240af6853c34, type: 2}
+  - {fileID: 11400000, guid: 8a7163cac93461940ad345d2448353ec, type: 2}
+  - {fileID: 11400000, guid: 28fe4e8f7564c4a49b609ecc7676ed5b, type: 2}
+  - {fileID: 11400000, guid: 44f448e3d5bc34e40b62d0886977ffda, type: 2}
+  - {fileID: 11400000, guid: eeab5b6304db09c419d2d9b617b611f4, type: 2}
+  - {fileID: 11400000, guid: 25c252a1122cf8d4d9c991cc2c0ee1af, type: 2}
+  - {fileID: 11400000, guid: 3ff94a04cf5b94642867d1ccf51d931f, type: 2}
+  - {fileID: 11400000, guid: 00cb21a47723ebb4492cb4ae1aa37f6d, type: 2}
+  - {fileID: 11400000, guid: b213e716d63ce6b4cb2ae1d0c2645284, type: 2}
+  - {fileID: 11400000, guid: 88e60660112932f4887743130a115ed3, type: 2}
+  - {fileID: 11400000, guid: 363e35873664841458293689e05646ed, type: 2}
+  - {fileID: 11400000, guid: 803a9bcade6a0dd45a21505d8fa03d2f, type: 2}
+  - {fileID: 11400000, guid: 18fab81c2a47b0f4699d35ae0fc3bfc2, type: 2}
+  - {fileID: 11400000, guid: 5df65740fc283f64ea3f99ac21502eb3, type: 2}
+  - {fileID: 11400000, guid: 7dc3ec802e3412042812e8465d497e22, type: 2}
+  - {fileID: 11400000, guid: f8318e1f763f5214a87e57c818e6b55f, type: 2}
+  - {fileID: 11400000, guid: 4ad409c719844b9488e8d863916b0b2a, type: 2}
+  - {fileID: 11400000, guid: 02b5ded90c09d674da5ee002b08f1891, type: 2}
+  - {fileID: 11400000, guid: fd40d32ab4fcdc84c98a2972d67518c4, type: 2}
+  - {fileID: 11400000, guid: 16b2ff72f350a014494f30f30d073d0d, type: 2}
+  - {fileID: 11400000, guid: b6586a80f18c0a24094677df518ded80, type: 2}
+  - {fileID: 11400000, guid: 197fd64f64fa0534c971eeb56b95a6bb, type: 2}
+  - {fileID: 11400000, guid: 6bc3a60231fd13f4097818074f9ded9d, type: 2}
+  - {fileID: 11400000, guid: 988d84b75d62c984f9d82c0a709ae17a, type: 2}
+  - {fileID: 11400000, guid: fdf8107c7b613f541a0d0c4d9ced5f97, type: 2}
+  - {fileID: 11400000, guid: 34f51b9adfce5b148a9746f56536d424, type: 2}
+  - {fileID: 11400000, guid: fe759b7067d52d140a7a48f3e36d0090, type: 2}
+  - {fileID: 11400000, guid: 4623585af6e549644ba64bbfac185b48, type: 2}
+  zoneName: BATTLE OF DAZAR'ALOR
+  bossName: Champion of the Light
+  bossOrder: 0
+  bossHpValue: 40188300
+  berserkInSeconds: 369
+  causeOfDeath:
+  - Wave of Light
+  - Consecration
+  - High Damage
+  - Adds
+  benchEvent:
+  - Somehow Bench Lord managed to kill a few members
+  howManyHealers: 2
+  howManyTanks: 2

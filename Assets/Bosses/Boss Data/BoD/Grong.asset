@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Grong
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 88f2c2695811c8a4780fea30475baa6e, type: 2}
+  - {fileID: 11400000, guid: f97053b1489a55048b63b255f666b7cd, type: 2}
+  - {fileID: 11400000, guid: 0140f79578141724fab0541193644e1c, type: 2}
+  - {fileID: 11400000, guid: fc4c4bbfe77f9164bb43cd80457d3a51, type: 2}
+  - {fileID: 11400000, guid: 6666e27414aa7704999ae4e56cf9faa3, type: 2}
+  - {fileID: 11400000, guid: 506754705b8765548a124317316bf459, type: 2}
+  - {fileID: 11400000, guid: d7475f14ad650fd47a865881d18c3bf1, type: 2}
+  - {fileID: 11400000, guid: adea317868a012b43a65f618653859f9, type: 2}
+  - {fileID: 11400000, guid: d29b2b2cafc86b84ba42bff3bba60f4d, type: 2}
+  - {fileID: 11400000, guid: f74f941e807e8784aad9d7b04807033c, type: 2}
+  - {fileID: 11400000, guid: ba4b1cbb77f58e74892d387a0a692c3f, type: 2}
+  - {fileID: 11400000, guid: 42f1b2ba91380b94291109344bab920e, type: 2}
+  - {fileID: 11400000, guid: d243051de423f1944a9549d5460e876d, type: 2}
+  - {fileID: 11400000, guid: 9e94c6da7a4b18046bd215fe24f13ecd, type: 2}
+  - {fileID: 11400000, guid: 0b753a0384d1ec14e8633e427288ba5e, type: 2}
+  - {fileID: 11400000, guid: 5296649189332f44b8c55e426c113de8, type: 2}
+  - {fileID: 11400000, guid: d6e5d635bcdf5474bbbb6616ef1a539f, type: 2}
+  - {fileID: 11400000, guid: 7dadbef3d0314ce43a48b8aee61d5467, type: 2}
+  - {fileID: 11400000, guid: 67b01793ddeba6f4bb764ac5d3a52dd0, type: 2}
+  - {fileID: 11400000, guid: 776407bd36885104a87dc86c3aefa4d7, type: 2}
+  - {fileID: 11400000, guid: d03e4753a086a214b9a3b448e193c43d, type: 2}
+  - {fileID: 11400000, guid: b9fab3247fa62e5409b0dbbb05a7392d, type: 2}
+  - {fileID: 11400000, guid: 0870615901090c94190379216dd52fa7, type: 2}
+  - {fileID: 11400000, guid: 985b359016d547244a8b5091da5c6194, type: 2}
+  - {fileID: 11400000, guid: 9c0a4ea72f5939b439c87acd6f355e24, type: 2}
+  - {fileID: 11400000, guid: a79d8c858ea36ca4280a86820883b9bb, type: 2}
+  - {fileID: 11400000, guid: 804fe36924c93e648931770fcdc7be7c, type: 2}
+  - {fileID: 11400000, guid: f9b2e103594fe474d9bf5cb034d51363, type: 2}
+  - {fileID: 11400000, guid: 386087014d994974cb5a3ecf7ce14bb4, type: 2}
+  - {fileID: 11400000, guid: fd5e729ed9455d64ca6eed45be45c2d7, type: 2}
+  - {fileID: 11400000, guid: 121541d1deadf2e4497ba4b58d599fe3, type: 2}
+  - {fileID: 11400000, guid: 2ec6a31121975aa4285458ac9d4bc013, type: 2}
+  - {fileID: 11400000, guid: 9d727f21c5aa1c348a0e145ca7a6f019, type: 2}
+  - {fileID: 11400000, guid: d2f69cbb166ad31418afbf14802fa0cd, type: 2}
+  - {fileID: 11400000, guid: 089456ffe356580478394cecea48919e, type: 2}
+  - {fileID: 11400000, guid: 813d1e61e771be9408f98caf80ec7267, type: 2}
+  - {fileID: 11400000, guid: 2093b20c94382a04287aee9b7bfa21ac, type: 2}
+  - {fileID: 11400000, guid: 0024b93165e35864a8e2ed6591b2b32b, type: 2}
+  - {fileID: 11400000, guid: b631803a4583a324ca9bae6e41acca30, type: 2}
+  - {fileID: 11400000, guid: f4a40287df50fb540a36367529b5877c, type: 2}
+  - {fileID: 11400000, guid: 09c79c0f97e19394a98da81478435267, type: 2}
+  - {fileID: 11400000, guid: 4a71682388b5e484a8b8c2ad6c35cbdf, type: 2}
+  - {fileID: 11400000, guid: ab43044ea37a7ce4ba56efa5a20db25d, type: 2}
+  - {fileID: 11400000, guid: f0b88ef2c6da0f44986fe4cc00bbe557, type: 2}
+  - {fileID: 11400000, guid: c2dd924537c46784dba067dbb8065aee, type: 2}
+  - {fileID: 11400000, guid: b341b05de6ec7b241a888971f3eaf3d3, type: 2}
+  - {fileID: 11400000, guid: e7d57e5a06fb9ef42ad59fc25d82b8ac, type: 2}
+  - {fileID: 11400000, guid: 5a8751bcb76598045b955045f84af6b6, type: 2}
+  - {fileID: 11400000, guid: 56dbdbb09797cd54781374ef5425857e, type: 2}
+  - {fileID: 11400000, guid: 5d741f706c664d74d8b71bd765250afd, type: 2}
+  - {fileID: 11400000, guid: 8b1bae334d832b4498b9a3df2a3ae16e, type: 2}
+  - {fileID: 11400000, guid: 7898b46480273954fbb8044ffed7305f, type: 2}
+  - {fileID: 11400000, guid: 21d0e3950a036d244a3ac8dab326a359, type: 2}
+  - {fileID: 11400000, guid: 1edb7123ec2168d4d921154c8e87b9bd, type: 2}
+  - {fileID: 11400000, guid: be8025c6349c0fb418155eaa24fee766, type: 2}
+  - {fileID: 11400000, guid: 6ab8c38084bc08e49846b91cd21e9476, type: 2}
+  - {fileID: 11400000, guid: a3648436fa8a8f44ab3f53d41ef22ce2, type: 2}
+  - {fileID: 11400000, guid: 0519ba8c4554efa429f51aef1451d9ee, type: 2}
+  zoneName: BATTLE OF DAZAR'ALOR
+  bossName: Grong
+  bossOrder: 1
+  bossHpValue: 96400000
+  berserkInSeconds: 387
+  causeOfDeath:
+  - Tantrum
+  - Missile
+  - Tank throw
+  - Not Healed
+  - Reverberating Echo
+  benchEvent:
+  - Bench Lord dropped orb
+  - Bench Lord baited tank throw in a stack
+  howManyHealers: 4
+  howManyTanks: 2

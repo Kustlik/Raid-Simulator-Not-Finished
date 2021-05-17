@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Garolotrzyk
+  m_EditorClassIdentifier: 
+  playerName: Garolotrzyk
+  playerRole: Dps
+  playerClass: Rogue
+  playerProximity: Melee
+  dps:
+  - 21555.4
+  - 20544.9
+  - 18339.3
+  - 17732.5
+  - 17090.3
+  - 14236.5
+  - 14178.8
+  - 13044.6
+  hps:
+  - 2454.9
+  - 2176.1
+  - 1953.6
+  - 1412.7
+  - 1352.9
+  - 1152.2
+  - 1122.7
+  - 955.5
+  survivability:
+  - 97
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Shamaim
+  m_EditorClassIdentifier: 
+  playerName: Shamaim
+  playerRole: Dps
+  playerClass: Shaman
+  playerProximity: Ranged
+  dps:
+  - 53765.5
+  - 50087.9
+  - 49474.5
+  - 46222.3
+  - 47343.1
+  - 40973.9
+  - 40234
+  - 40175.6
+  hps:
+  - 7278.1
+  - 5974.4
+  - 5894.8
+  - 5287.5
+  - 6599.3
+  - 5831.5
+  - 3760.5
+  - 3428.1
+  survivability:
+  - 95.4
+  - 97.7
+  - 96.6
+  - 98.4
+  - 100
+  - 100
+  - 100
+  - 100

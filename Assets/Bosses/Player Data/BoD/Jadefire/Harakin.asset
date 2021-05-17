@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Harakin
+  m_EditorClassIdentifier: 
+  playerName: Harakin
+  playerRole: Dps
+  playerClass: Warrior
+  playerProximity: Melee
+  dps:
+  - 23258
+  - 19804.5
+  - 18836.1
+  - 18009.9
+  - 17997.2
+  - 16042.7
+  - 19300.3
+  - 18274.6
+  - 16340.7
+  - 16330.7
+  - 16255.6
+  hps:
+  - 2748.6
+  - 2269.4
+  - 1903.9
+  - 1746.9
+  - 1579
+  - 1336.6
+  - 1323.4
+  - 1299.2
+  - 1219.2
+  - 991
+  - 834.8
+  survivability:
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

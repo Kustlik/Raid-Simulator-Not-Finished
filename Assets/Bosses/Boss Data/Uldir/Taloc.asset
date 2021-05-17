@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Taloc
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 0fcc65f912ba6d241bb584e2f239a5f7, type: 2}
+  - {fileID: 11400000, guid: e2fc0014909895c4297355433548fb45, type: 2}
+  - {fileID: 11400000, guid: af419d0aa2d5d2f45bed79e11c2e18c9, type: 2}
+  - {fileID: 11400000, guid: 6b7ea14beeb59cd478a7be84eb7fe757, type: 2}
+  - {fileID: 11400000, guid: f634f7cb46d937442ac1a704a356b309, type: 2}
+  - {fileID: 11400000, guid: 749eec87afebd324c9b5bf7bfc259fe4, type: 2}
+  - {fileID: 11400000, guid: 7c90cf23b4d19fa4ebc3c4e2a80eeac1, type: 2}
+  - {fileID: 11400000, guid: d5a998137aa007445bc88bc0427330aa, type: 2}
+  - {fileID: 11400000, guid: 455cb280eba937745a383e478f21b497, type: 2}
+  - {fileID: 11400000, guid: 392248adaee69304f8e654b9ec4156ae, type: 2}
+  - {fileID: 11400000, guid: f66bc79d9b1de114ba4b661f78d08379, type: 2}
+  - {fileID: 11400000, guid: 7797ab95a2e070d478d798a1da3a5a55, type: 2}
+  - {fileID: 11400000, guid: 5d17bb392fd3b49499d0b800d8b9573c, type: 2}
+  - {fileID: 11400000, guid: 703adc9e8dbf0174f99fde60ab475405, type: 2}
+  - {fileID: 11400000, guid: 04b315bce7004ad44afa753701e71100, type: 2}
+  - {fileID: 11400000, guid: fde0d37d9c298274389210fd2d1d8576, type: 2}
+  - {fileID: 11400000, guid: fd1fd7b24251331439d889a50e9e559b, type: 2}
+  - {fileID: 11400000, guid: 2b60a670beff778418680466de98b4d4, type: 2}
+  - {fileID: 11400000, guid: bebcae83ef050f249aee181c72f50ff4, type: 2}
+  - {fileID: 11400000, guid: 7fe2cd1f9603a864ea4517b726728994, type: 2}
+  - {fileID: 11400000, guid: a0d85006f3a4e6a4c92070e45896e823, type: 2}
+  - {fileID: 11400000, guid: a231abcdc3ce1f1439ea339fd39130b5, type: 2}
+  - {fileID: 11400000, guid: 48b8a2ef846b8c646a261a7b6d1a402a, type: 2}
+  - {fileID: 11400000, guid: 6a3faeae93bd2cf488afaea911011017, type: 2}
+  - {fileID: 11400000, guid: 539bcd9614af78e4999e657f0ca51cd2, type: 2}
+  - {fileID: 11400000, guid: 519563f76daf0ea4b9b4f7e30b76eca4, type: 2}
+  - {fileID: 11400000, guid: 1c3e261a945afcf4093cb092ccf6059b, type: 2}
+  - {fileID: 11400000, guid: a49dbb30ac97df846b0928d201bc870b, type: 2}
+  - {fileID: 11400000, guid: 71995ecfc44cf3840a99aa046dfcb533, type: 2}
+  - {fileID: 11400000, guid: 886fca37c3644df45b770d4d38ba797f, type: 2}
+  - {fileID: 11400000, guid: 8f882aa0f2e27284486ff90399842892, type: 2}
+  - {fileID: 11400000, guid: 2961850ed30f97547acf8adb1c4e54ff, type: 2}
+  - {fileID: 11400000, guid: 9879432e1adf9b44c8ba18917980c65e, type: 2}
+  - {fileID: 11400000, guid: 6e45ae58d1438594e8336fbf115d2955, type: 2}
+  - {fileID: 11400000, guid: fa73ca80a71d87148a5bc4b8e2ccaddc, type: 2}
+  - {fileID: 11400000, guid: 991b6aee9f21da5429671ab8c92b0324, type: 2}
+  - {fileID: 11400000, guid: d9b01914f28486445a28cecb63c9cfcd, type: 2}
+  - {fileID: 11400000, guid: 2c48ca6777fabd343b50c4fb91f547be, type: 2}
+  - {fileID: 11400000, guid: d69ffb9e1dd448645b1e4710faad5c2e, type: 2}
+  - {fileID: 11400000, guid: a85f58f83bbbb0e419cda0b6e1684f6c, type: 2}
+  - {fileID: 11400000, guid: ab65a810626983f4e9fc2f8a9a6e6010, type: 2}
+  - {fileID: 11400000, guid: c99b0dbadf6f81247ad19d6815f2c3a7, type: 2}
+  - {fileID: 11400000, guid: adcba4b561ec89a4e863e788c5d63327, type: 2}
+  - {fileID: 11400000, guid: 1ebc6597ae6585545a66ffe9c0ed02d8, type: 2}
+  - {fileID: 11400000, guid: 8683d0a9764a45d4e97a01b95684482e, type: 2}
+  - {fileID: 11400000, guid: 43d850c7a3a68514f8bac7adcbce35bb, type: 2}
+  - {fileID: 11400000, guid: 97f8eccbe8645614eb8fec2e0633c592, type: 2}
+  - {fileID: 11400000, guid: d1d317eeda301f14db5ff56993fd0f14, type: 2}
+  - {fileID: 11400000, guid: 43d5a54ea0bef5d4c98c13c4e1e5b530, type: 2}
+  - {fileID: 11400000, guid: 0e4a6538c6b1ffd448eba3eeb1b03c40, type: 2}
+  - {fileID: 11400000, guid: 695b15f2b7aba6d498581c40dc81f837, type: 2}
+  - {fileID: 11400000, guid: 2c27fe794de621c438468deb340b93ea, type: 2}
+  zoneName: ULDIR
+  bossName: Taloc
+  bossOrder: 0
+  bossHpValue: 44887200
+  berserkInSeconds: 671
+  causeOfDeath:
+  - Laser
+  - Falling damage
+  - Sanguine pools
+  - High damage taken
+  - Charge
+  benchEvent:
+  - Bench Lord taunted boss
+  - Bench Lord killed a few people, case unknown
+  - Bench Lord knockbacked adds into the raid
+  - Bench Lord baited charge into the raid
+  howManyHealers: 2
+  howManyTanks: 2

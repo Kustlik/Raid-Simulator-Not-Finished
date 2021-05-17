@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Podjarany
+  m_EditorClassIdentifier: 
+  playerName: Podjarany
+  playerRole: Dps
+  playerClass: Warlock
+  playerProximity: Ranged
+  dps:
+  - 16096.5
+  - 14679.4
+  - 14527.4
+  - 13450.9
+  - 13290.3
+  - 11963.1
+  hps:
+  - 4780.5
+  - 4730
+  - 4717.2
+  - 4343
+  - 4202.2
+  - 3982.9
+  survivability:
+  - 94
+  - 97
+  - 97
+  - 100
+  - 100
+  - 100

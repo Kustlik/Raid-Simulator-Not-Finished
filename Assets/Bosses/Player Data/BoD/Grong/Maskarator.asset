@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Maskarator
+  m_EditorClassIdentifier: 
+  playerName: Maskarator
+  playerRole: Dps
+  playerClass: Death Knight
+  playerProximity: Melee
+  dps:
+  - 16563.1
+  - 15707.7
+  - 14714.1
+  - 14482.2
+  - 16223.3
+  hps:
+  - 3091.2
+  - 4939.6
+  - 3387.7
+  - 2824.6
+  - 1410.8
+  survivability:
+  - 90.8
+  - 100
+  - 100
+  - 100
+  - 100

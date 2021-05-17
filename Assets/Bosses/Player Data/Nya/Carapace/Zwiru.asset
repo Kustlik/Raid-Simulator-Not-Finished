@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Zwiru
+  m_EditorClassIdentifier: 
+  playerName: Zwiru
+  playerRole: Dps
+  playerClass: Demon Retard
+  playerProximity: Melee
+  dps:
+  - 64261.7
+  - 59355
+  - 55866
+  - 51685.1
+  - 52003.7
+  - 51598.5
+  - 50956.6
+  - 48076.9
+  - 42784.1
+  hps:
+  - 11990.8
+  - 9519.6
+  - 8708.8
+  - 6818.7
+  - 6796.3
+  - 9387.3
+  - 8336.5
+  - 8054.8
+  - 5599.4
+  survivability:
+  - 51.3
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

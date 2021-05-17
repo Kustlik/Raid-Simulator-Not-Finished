@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: "Elwing\xE1"
+  m_EditorClassIdentifier: 
+  playerName: "Elwing\xE1"
+  playerRole: Tank
+  playerClass: Paladin
+  playerProximity: Melee
+  dps:
+  - 2793.2
+  - 5790.5
+  - 6570.8
+  - 7066.4
+  - 8207.1
+  - 8363.4
+  - 9864.8
+  - 9875.8
+  hps:
+  - 3507.8
+  - 6182
+  - 6523.4
+  - 6932.1
+  - 7518.5
+  - 8310.6
+  - 8004
+  - 8701.7
+  survivability:
+  - 77.7
+  - 86.6
+  - 85.5
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100

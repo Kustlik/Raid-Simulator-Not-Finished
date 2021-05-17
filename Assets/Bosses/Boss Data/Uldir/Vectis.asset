@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0441f7be63aef46a72bea4864d1bfc, type: 3}
+  m_Name: Vectis
+  m_EditorClassIdentifier: 
+  players:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 257334621f7da3f4a8040daef21a6ea2, type: 2}
+  - {fileID: 11400000, guid: 2cd4e24b86a62ed4b95b6c353b66ea6b, type: 2}
+  - {fileID: 11400000, guid: 2ef8a1574cb697c4086dc892163f9637, type: 2}
+  - {fileID: 11400000, guid: a42cf1bc06ecddf44865273abf87d520, type: 2}
+  - {fileID: 11400000, guid: 4583845c1105be64d98a4c8c6bd504a1, type: 2}
+  - {fileID: 11400000, guid: 7669f6968849af648bcf961e0c53d377, type: 2}
+  - {fileID: 11400000, guid: bf4a377f23614d34087d770d78b5bcf4, type: 2}
+  - {fileID: 11400000, guid: 6b4791f56cb26fb468ce6c7faf58ef35, type: 2}
+  - {fileID: 11400000, guid: 74f139ad1468288458386378268a0396, type: 2}
+  - {fileID: 11400000, guid: 928013f116955fc4bb65cdd8c4982638, type: 2}
+  - {fileID: 11400000, guid: 44beeef5ecbd56b4395ab9db4e893e36, type: 2}
+  - {fileID: 11400000, guid: a348116b5c27ae84e936a1085b7944c4, type: 2}
+  - {fileID: 11400000, guid: 6a3bf506305d97b4ebcf490eeb9ed399, type: 2}
+  - {fileID: 11400000, guid: 4abeda2dc3cb2f54e8aa42583a746440, type: 2}
+  - {fileID: 11400000, guid: 395a156814c4e304db763d092c660907, type: 2}
+  - {fileID: 11400000, guid: d1c89abd0eaa8604aa5cf4e7870fa594, type: 2}
+  - {fileID: 11400000, guid: f341cc552429d194d937bc747bf95043, type: 2}
+  - {fileID: 11400000, guid: 3c577bbbfadc59741ab6bbd799ae922a, type: 2}
+  - {fileID: 11400000, guid: 52a92384987c1584b9d9456bd5fc1a42, type: 2}
+  - {fileID: 11400000, guid: 83771e2992b588c499c21afe4be7d40e, type: 2}
+  - {fileID: 11400000, guid: 9effe4d987be44a42963a9fc6d3c2228, type: 2}
+  - {fileID: 11400000, guid: e5c8714008c0bd8478024916e751ab50, type: 2}
+  - {fileID: 11400000, guid: 754152aed6596b24d97fb4796e985f0b, type: 2}
+  - {fileID: 11400000, guid: 3b2ee583043c7e04aaed983dce26ee59, type: 2}
+  - {fileID: 11400000, guid: daa818eb94cbf024eb95cad6df50517f, type: 2}
+  zoneName: ULDIR
+  bossName: Vectis
+  bossOrder: 4
+  bossHpValue: 53260348
+  berserkInSeconds: 559
+  causeOfDeath:
+  - Bursting Lesions DoT
+  - Bursting Lesions erupt
+  - Add aggro
+  - Caustic Bile add cast
+  - Not soaked pool
+  - High damage taken
+  benchEvent:
+  - Bench Lord leaved soak pool before trigger
+  - Bench Lord overstacked Lingering Infection
+  howManyHealers: 4
+  howManyTanks: 2

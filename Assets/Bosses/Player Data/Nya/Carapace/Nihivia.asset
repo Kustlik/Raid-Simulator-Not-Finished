@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f32323beed57ce34297ac5970e2b1d13, type: 3}
+  m_Name: Nihivia
+  m_EditorClassIdentifier: 
+  playerName: Nihivia
+  playerRole: Healer
+  playerClass: Monk
+  playerProximity: Melee
+  dps:
+  - 14808.8
+  - 13881.1
+  - 11638.6
+  - 8789.2
+  - 7758.7
+  - 16769.2
+  - 15605.3
+  - 11914.4
+  - 9208.7
+  - 6521.4
+  - 4965
+  hps:
+  - 75932.8
+  - 71728.7
+  - 60234.3
+  - 57273.4
+  - 56455.9
+  - 51218.4
+  - 76042.7
+  - 67901.4
+  - 65237.2
+  - 63329
+  - 58284.2
+  survivability:
+  - 98.7
+  - 90.6
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
+  - 100
