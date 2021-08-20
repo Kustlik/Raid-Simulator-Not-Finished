@@ -3,6 +3,9 @@ Raid Simulator is a simulator predicting a Survival, "Dps" and "Hps" using a dat
 
 THIS IS NOT FINISHED VERSION OF A PROJECT, A LOT OF FEATURES ARE MISSING.
 
+#Preview
+![SimulatorPreview](Preview/SimPreview.gif)
+
 ## Important Note
 Resolution is messed up, to see this program properly, you need to open it in fullscreen mode.
 
